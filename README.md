@@ -1,0 +1,2 @@
+# recreations
+Practical exercises
